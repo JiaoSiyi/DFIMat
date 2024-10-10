@@ -4,5 +4,5 @@
 
 Huazhong University of Science and Technology
 
-This repository contains the official implementation of the CVPR 2023 paper "Real-time Multi-person Eyeblink Detection in the Wild for Untrimmed Video".
+This repository contains the official implementation of the ACCV 2024 paper "DFIMat: Decoupled Flexible Interactive Matting in Multi-Person Scenarios".
 
